@@ -2,3 +2,5 @@ dados/BHM
 dados/VHM
 dados/lotes
 dados/*.hdf5
+dados/*.tif
+venv/*
