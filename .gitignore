@@ -4,3 +4,4 @@ dados/lotes
 dados/*.hdf5
 dados/*.tif
 venv/*
+tmp/*
