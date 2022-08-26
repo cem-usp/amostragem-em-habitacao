@@ -8,3 +8,4 @@ scipy
 scikit-learn
 numba
 geocube
+jupyter
