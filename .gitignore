@@ -5,3 +5,5 @@ dados/*.hdf5
 dados/*.tif
 venv/*
 tmp/*
+resultados/*.*-shm
+resultados/*.*-wal
